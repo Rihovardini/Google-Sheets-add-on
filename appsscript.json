@@ -7,8 +7,7 @@
     "executeAs": "USER_DEPLOYING"
   },
   "exceptionLogging": "STACKDRIVER",
-  {
-    "devInformation":{
+   "devInformation":{
      "name": "SoftServe Task",
      "addonSource": "https://github.com/Rihovardini/Google-Sheets-add-on",
      "description": "Google Sheets add-on which could retrieve data from  API ."
